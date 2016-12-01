@@ -1,0 +1,56 @@
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.exe.config
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.exe
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.pdb
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\ergasia.xml
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.vbprojResolveAssemblyReference.cache
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.Form1.resources
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.Resources.resources
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.vbproj.GenerateResource.Cache
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.exe
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.xml
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.pdb
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\Awesomium.Core.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\Awesomium.Core.xml
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\awesomium.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\icudt.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\avcodec-53.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\avformat-53.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\avutil-51.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\libEGL.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\libGLESv2.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\awesomium_process
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\inspector.pak
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\xinput9_1_0.dll
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\bin\Debug\pdf_js.pak
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.win.resources
+C:\Users\Ria\Desktop\programming\ergasia\ergasia\obj\Debug\ergasia.Settings.resources
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\ergasia.exe.config
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.exe
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.xml
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.pdb
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\ergasia.exe
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\ergasia.pdb
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\ergasia.xml
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\Awesomium.Core.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\Awesomium.Windows.Forms.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\Awesomium.Core.xml
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\Awesomium.Windows.Forms.xml
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\awesomium.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\icudt.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\avcodec-53.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\avformat-53.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\avutil-51.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\libEGL.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\libGLESv2.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\awesomium_process
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\inspector.pak
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\xinput9_1_0.dll
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\bin\Debug\pdf_js.pak
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.vbprojResolveAssemblyReference.cache
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.Form1.resources
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.Resources.resources
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.Settings.resources
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.win.resources
+C:\Users\Ria\Documents\Visual Studio 2015\Projects\ergasia\ergasia\obj\Debug\ergasia.vbproj.GenerateResource.Cache
